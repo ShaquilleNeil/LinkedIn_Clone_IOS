@@ -32,6 +32,20 @@ This project is **for demonstration and design purposes only**; it does not incl
 
 ## 📸 Screenshots
 
+<img src="https://github.com/ShaquilleNeil/LinkedIn_Clone_IOS/blob/main/home.png" width="400"/>
+
+<img src="https://github.com/ShaquilleNeil/LinkedIn_Clone_IOS/blob/main/network.png" width="400"/>
+
+<img src="https://github.com/ShaquilleNeil/LinkedIn_Clone_IOS/blob/main/post.png" width="400"/>
+
+<img src="https://github.com/ShaquilleNeil/LinkedIn_Clone_IOS/blob/main/notiications.png" width="400"/>
+
+<img src="https://github.com/ShaquilleNeil/LinkedIn_Clone_IOS/blob/main/jobs.png" width="400"/>
+
+
+
+
+
 
 
 ---
